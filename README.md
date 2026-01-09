@@ -123,6 +123,10 @@ SESSION_TIMEOUT_MS=1500000   # 25 minutes
 | `/config` | GET | Available skills/MCP servers |
 | `/health` | GET | Health check |
 
+## Acknowledgments
+
+Based on [claude-agent-sdk-in-cloudflare-containers](https://github.com/thomasgauvin/claude-agent-sdk-in-cloudflare-containers) by [@thomasgauvin](https://github.com/thomasgauvin).
+
 ## License
 
 MIT
