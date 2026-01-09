@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    // Example: HTTP MCP server
+    // "example-http": {
+    //   "type": "http",
+    //   "url": "https://api.example.com/mcp",
+    //   "headers": {
+    //     "Authorization": "Bearer ${YOUR_API_TOKEN}"
+    //   }
+    // },
+    //
+    // Example: stdio MCP server
+    // "filesystem": {
+    //   "type": "stdio",
+    //   "command": "npx",
+    //   "args": ["-y", "@modelcontextprotocol/server-filesystem", "/data"]
+    // }
+  }
+}
